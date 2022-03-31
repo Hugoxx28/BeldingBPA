@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Keep Belding Green!</title>
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/main.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montagu+Slab&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montagu+Slab&family=Oswald&display=swap"
+      rel="stylesheet"
+    />
+
+    <script
+      src="https://kit.fontawesome.com/da760988c7.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="icon"
+      href="https://cdn.glitch.global/387da31b-af7a-4e1a-92bf-2d58a57f066e/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(13).png?v=1642801027170"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap" rel="stylesheet">
+  </head>
+   <body>
+    
+    <header class="menu">
+      <nav class="nav menu-hidden">
+        <div class="logo-container">
+          <a href="/index.html" /><img
+            class="logo"
+            alt="logo belding green"
+            src="https://cdn.glitch.global/387da31b-af7a-4e1a-92bf-2d58a57f066e/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(13).png?v=1642801027170"
+            href="/index.html"
+          />
+        </div>
+
+        <div class="nav-buttons">
+          <ul>
+            <li>
+              <a class="nav__personal" href="/personal.html"
+                >Personal Transportation</a
+              >
+            </li>
+            <li>
+              <a class="nav__recycling" href="/recycling.html">Recycling</a>
+            </li>
+            <li>
+              <a class="nav__transportation" href="/transportation.html"
+                >Public Transportation</a
+              >
+            </li>
+            <li><a class="nav__energy" href="/energy.html">Energy</a></li>
+          </ul>
+        </div>
+        <label for="menu-hamburger" class="hamburger-label">
+          <img
+            class="hamburger-menu"
+            src="https://cdn.glitch.me/387da31b-af7a-4e1a-92bf-2d58a57f066e%2Ficons8-men%C3%BA.svg?v=1638133452176"
+          />
+        </label>
+        <input type="checkbox" id="menu-hamburger" class="hamburger__input" />
+
+        <div class="mobile-buttons">
+          <ul>
+            <li>
+              <a class="mobile__personal" href="/personal.html"
+                >Personal Transportation</a
+              >
+            </li>
+            <li>
+              <a class="mobile__recycling" href="/recycling.html">Recycling</a>
+            </li>
+            <li>
+              <a class="mobile__transportation" href="/transportation.html"
+                >Public Transportation</a
+              >
+            </li>
+            <li><a class="mobile__energy" href="/energy.html">Energy</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div class="citation-page-container">
+      <h1>
+        Citations
+      </h1>
+      
+      
+
+  <div class="citations-text-container">
+    <iframe src="https://drive.google.com/file/d/1MVlDpyv-7fh4gpyU-D1j1d5lV2VwQWph/preview" width="80%" height="100%" allow="autoplay"></iframe>
+  </div> 
+    </div>
+    <footer class="footer">
+ 
+      <div class="footer__copyright">
+             <div class="footer__links">
+        <div class="footer__citation-img-container">
+          <a href="/citations.html">
+            <img
+              title="Citations"
+              class="footer__citation-img"
+              src="https://cdn.glitch.me/387da31b-af7a-4e1a-92bf-2d58a57f066e%2Fbook-16-64%20(1).png?v=1638749084435"
+            />
+          </a>
+        </div>
+        <div class="footer__code-img-container">
+          <a target="blank" rel="nofollow" href="https://github.com/Titan1315/Belding-Green-Iniative">
+            <img
+              title="Website Code"
+              class="footer__code-img"
+              src="https://cdn.glitch.me/387da31b-af7a-4e1a-92bf-2d58a57f066e%2Fcode-2-xxl.png?v=1638839027702"
+            />
+          </a>
+        </div>
+        <div class="footer__about-img-container">
+          <a href="/about-us.html">
+            <img
+              title="About Us"
+              class="footer__about-img"
+              src="https://cdn.glitch.me/387da31b-af7a-4e1a-92bf-2d58a57f066e%2F640688.webp?v=1638748018016"
+            />
+          </a>
+        </div>
+      </div>
+                <p>Keep Belding Green! © Belding BPA</p>
+
+      </div>
+    </footer>
+  </body>
+</html>
